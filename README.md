@@ -6,6 +6,7 @@
 
 I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in building practical AI applications that solve real-world problems, with expertise in Gen-AI, LLMs, agentic AI, and automation.
 
+Visit my website: [Portfolio](https://codefatherai.webflow.io/)
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-kulkarni-ai/)
@@ -13,6 +14,8 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919405582136)
   
 </div>
+
+![LandingPage](hompage.png)
 
 ## 🚀 Projects
 

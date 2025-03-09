@@ -146,8 +146,9 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - My Git commit messages range from "Fixed stuff" to existential poetry
 - I understand regex exactly two times: when I write it and never again
 - I Listen to Marathi Classic Songs Wanna try [Spotify PlayList](https://open.spotify.com/playlist/3BTphLQ7H0FSVmH84fUGo7?si=C7RfBDhsSDmJNwjdkd6q8Q)
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3BTphLQ7H0FSVmH84fUGo7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<div align="center">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3BTphLQ7H0FSVmH84fUGo7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 ### 🧙‍♂️ My Coding Superpower
 Turning caffeine into working code at 4 AM while maintaining surprisingly decent documentation
 

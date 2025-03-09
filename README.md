@@ -15,7 +15,7 @@ Visit my website: [Portfolio](https://codefatherai.webflow.io/)
   
 </div>
 
-![LandingPage](hompage.png)
+![LandingPage](homepage.png)
 
 ## 🚀 Projects
 

@@ -16,14 +16,8 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 
 ## 🚀 Projects
 
-### [Carter](https://github.com/YourUsername/carter) - LLM-Powered E-commerce Search
-**A 10X better search engine for shopping**
-- Built a semantic search using vector embeddings and LLMs
-- Natural language understanding for intuitive queries
-- Scrapes 12 top fashion sites for comprehensive results
-- **Tech Stack:** OpenAI API, FastAPI, Vector Embedding, Pinecone, Selenium, Flask
 
-### [Athena](https://github.com/YourUsername/athena) - Open Source AI Assistant
+### [Athena](https://github.com/piyushk6626/Athena) - Open Source AI Assistant
 **Alexa+ but free and open source**
 - End-to-end task execution for shopping, booking, and more
 - AI-driven generative UI with dynamic product cards
@@ -32,14 +26,14 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - Multilingual support
 - **Tech Stack:** OpenAI API, FastAPI, Vector Embedding, Pinecone, Selenium, Flask, Flutter, Dart
 
-### [YC Atlas](https://github.com/YourUsername/yc-atlas) - YC Startup Discovery
+### [YC Atlas](https://github.com/piyushk6626/YCAtlas) - YC Startup Discovery
 **Agentic AI researcher for YC startups**
 - LLM-powered semantic search for context-aware retrieval
 - Autonomously conducts multi-step research
 - Provides current snapshot of the startup ecosystem
 - **Tech Stack:** OpenAI API, Vector Embedding, Pinecone, Selenium, Crawl4AI, Async, Streamlit
 
-### [Carter ONDC](https://github.com/YourUsername/carter-ondc) - AI-Powered Seller Onboarding
+### [Carter ONDC](https://github.com/piyushk6626/CarterONDCpublic) - AI-Powered Seller Onboarding
 **Conversational AI for WhatsApp commerce**
 - NLP-powered AI agent for inventory creation
 - Leverages WhatsApp as India's most accessible commerce gateway
@@ -47,21 +41,28 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - Vector search for intelligent discovery
 - **Tech Stack:** WhatsApp API, NLP, Vector Search
 
-### [Secu_Audit_AI](https://github.com/YourUsername/secu-audit-ai) - AI Security Automation
+### [Carter](https://github.com/YourUsername/carter) - LLM-Powered E-commerce Search
+**A 10X better search engine for shopping**
+- Built a semantic search using vector embeddings and LLMs
+- Natural language understanding for intuitive queries
+- Scrapes 12 top fashion sites for comprehensive results
+- **Tech Stack:** OpenAI API, FastAPI, Vector Embedding, Pinecone, Selenium, Flask
+
+### [Secu_Audit_AI](https://github.com/piyushk6626/CarterONDCpublic) - AI Security Automation
 **Agentic workflow for CIS benchmark auditing**
 - AI-powered script generation for security audits
 - Rigorous quality assurance with secondary LLM
 - Continuous optimization for flawless execution
 - **Tech Stack:** LLM, PDF processing, Script Generation
 
-### [Easy Audit](https://github.com/YourUsername/easy-audit) - Security Compliance Tool
+### [Easy Audit](https://github.com/piyushk6626/CarterONDCpublic) - Security Compliance Tool
 **GUI-based security audit automation**
 - CIS benchmark audit automation
 - Seamless GUI execution with PySide6
 - Efficient reporting and search functionality
 - **Tech Stack:** PySide6, PDF reporting, Database integration
 
-### [KnowMyCollege](https://github.com/YourUsername/know-my-college) - College Recommendation App
+### [KnowMyCollege](https://github.com/h4636oh/KnowMyCollege) - College Recommendation App
 **Hackathon-winning webapp for college search**
 - Personalized recommendations based on 10 key questions
 - Uses weighted average algorithm with normalized parameters
@@ -118,6 +119,33 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 
 - **Indian Institute of Information Technology, Pune**
   - B.Tech in Computer Science and Electronics
+
+## 😄 The Human Behind The Code
+
+<div align="center">
+
+![Coding vs Debugging](https://img.shields.io/badge/Coding%20:%20Debugging-20%20:%2080-red?style=for-the-badge)
+![Coffee Consumption](https://img.shields.io/badge/Coffee%20Consumption-High-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Sleep Schedule](https://img.shields.io/badge/Sleep%20Schedule-404%20Not%20Found-critical?style=for-the-badge)
+
+</div>
+
+### 🎮 When I'm Not Coding
+- **Trying to explain** to my parents what I actually do for a living
+- **Reading** sci-fi novels and papers that are way above my pay grade
+- **Overanalyzing** movie plots and finding plot holes
+- **Collecting** cool programming stickers I'll never actually stick anywhere
+- **Making** obscure references nobody understands
+
+### 💭 Random Facts
+- I've optimized my breakfast routine down to the millisecond
+- My debugging technique involves explaining the problem to random inanimate objects
+- I name my bugs after Greek gods because they seem immortal
+- My Git commit messages range from "Fixed stuff" to existential poetry
+- I understand regex exactly two times: when I write it and never again
+
+### 🧙‍♂️ My Coding Superpower
+Turning caffeine into working code at 3 AM while maintaining surprisingly decent documentation
 
 ## 📫 Let's Connect
 

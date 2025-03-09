@@ -44,21 +44,21 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - Vector search for intelligent discovery
 - **Tech Stack:** WhatsApp API, NLP, Vector Search
 
-### [Carter](https://github.com/YourUsername/carter) - LLM-Powered E-commerce Search
+### [Carter](https://carterfrontend.onrender.com/) - LLM-Powered E-commerce Search
 **A 10X better search engine for shopping**
 - Built a semantic search using vector embeddings and LLMs
 - Natural language understanding for intuitive queries
 - Scrapes 12 top fashion sites for comprehensive results
 - **Tech Stack:** OpenAI API, FastAPI, Vector Embedding, Pinecone, Selenium, Flask
 
-### [Secu_Audit_AI](https://github.com/piyushk6626/CarterONDCpublic) - AI Security Automation
+### [Secu_Audit_AI](https://github.com/h4636oh/EasyAudit_QT) - AI Security Automation
 **Agentic workflow for CIS benchmark auditing**
 - AI-powered script generation for security audits
 - Rigorous quality assurance with secondary LLM
 - Continuous optimization for flawless execution
 - **Tech Stack:** LLM, PDF processing, Script Generation
 
-### [Easy Audit](https://github.com/piyushk6626/CarterONDCpublic) - Security Compliance Tool
+### [Easy Audit](https://github.com/h4636oh/EasyAudit_QT) - Security Compliance Tool
 **GUI-based security audit automation**
 - CIS benchmark audit automation
 - Seamless GUI execution with PySide6

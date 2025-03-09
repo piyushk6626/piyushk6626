@@ -1,13 +1,5 @@
 # 👋 Hello, I'm Piyush Kulkarni
 
-</div>
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/piyushk6626">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />
-  </a>
-  <br />
-
-</div>
 
 > From research to real-world impact—let's build AI products that matter.
 
@@ -118,6 +110,14 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 
 </div>
 
+</div>
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/piyushk6626">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />
+  </a>
+  <br />
+
+</div>
 ## 🏆 Achievements
 
 - **SIH 2024**: First Rank in India (Nov 2024)

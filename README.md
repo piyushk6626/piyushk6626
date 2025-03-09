@@ -147,11 +147,6 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - I understand regex exactly two times: when I write it and never again
 - I Listen to Marathi Classic Songs Wanna try [Spotify PlayList](https://open.spotify.com/playlist/3BTphLQ7H0FSVmH84fUGo7?si=C7RfBDhsSDmJNwjdkd6q8Q)
 
-<div align="center">
-  <a href="https://open.spotify.com/playlist/3BTphLQ7H0FSVmH84fUGo7?si=C7RfBDhsSDmJNwjdkd6q8Q">
-    <img src="https://i.scdn.co/image/ab67706c0000bebb604fb5e13c0fb4e7583d6d5d" width="300" alt="Marathi Classic Songs Playlist">
-  </a>
-</div>
 
 ### 🧙‍♂️ My Coding Superpower
 Turning caffeine into working code at 4 AM while maintaining surprisingly decent documentation

@@ -1,24 +1,12 @@
 # 👋 Hello, I'm Piyush Kulkarni
 
-<div align="center">
-  <h3>My GitHub Contributions</h3>
-  <!-- GitHub Contribution Chart (all contributions) -->
-<!-- GitHub Activity Graph (dark theme) -->
-<a href="https://github.com/piyushk6626">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushk6626&theme=react-dark" alt="Piyush's GitHub Activity Graph" />
-</a>
-
-
+</div>
   <!-- GitHub Streak Card -->
   <a href="https://github.com/piyushk6626">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />
   </a>
   <br />
-  <!-- GitHub Contribution Graph -->
-<a href="https://github.com/piyushk6626">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushk6626&theme=react-dark" alt="Piyush's GitHub Activity Graph" />
-</a>
-<br />
+
 </div>
 
 > From research to real-world impact—let's build AI products that matter.

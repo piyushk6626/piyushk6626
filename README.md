@@ -3,10 +3,11 @@
 <div align="center">
   <h3>My GitHub Contributions</h3>
   <!-- GitHub Contribution Chart (all contributions) -->
- <!-- GitHub Contribution Chart (simulated dark theme) -->
+<!-- GitHub Activity Graph (dark theme) -->
 <a href="https://github.com/piyushk6626">
-  <img src="https://ghchart.rshah.org/ffffff/piyushk6626" alt="Piyush's GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushk6626&theme=react-dark" alt="Piyush's GitHub Activity Graph" />
 </a>
+
 
   <!-- GitHub Streak Card -->
   <a href="https://github.com/piyushk6626">

@@ -6,9 +6,9 @@
 
 I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in building practical AI applications that solve real-world problems, with expertise in Gen-AI, LLMs, agentic AI, and automation.
 
-Visit my website: [Portfolio](https://codefatherai.webflow.io/)
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=webflow)](https://codefatherai.webflow.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-kulkarni-ai/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kulkarnipiyush462@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919405582136)
@@ -135,20 +135,21 @@ Visit my website: [Portfolio](https://codefatherai.webflow.io/)
 
 ### 🎮 When I'm Not Coding
 - **Trying to explain** to my parents what I actually do for a living
-- **Reading** sci-fi novels and papers that are way above my pay grade
-- **Overanalyzing** movie plots and finding plot holes
+- **Reading** Startup Books and papers
 - **Collecting** cool programming stickers I'll never actually stick anywhere
+- **Hiking** Random Mountains
 - **Making** obscure references nobody understands
 
 ### 💭 Random Facts
-- I've optimized my breakfast routine down to the millisecond
 - My debugging technique involves explaining the problem to random inanimate objects
 - I name my bugs after Greek gods because they seem immortal
 - My Git commit messages range from "Fixed stuff" to existential poetry
 - I understand regex exactly two times: when I write it and never again
+- I Listen to Marathi Classic Songs Wanna try [Spotify PlayList](https://open.spotify.com/playlist/3BTphLQ7H0FSVmH84fUGo7?si=C7RfBDhsSDmJNwjdkd6q8Q)
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3BTphLQ7H0FSVmH84fUGo7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 🧙‍♂️ My Coding Superpower
-Turning caffeine into working code at 3 AM while maintaining surprisingly decent documentation
+Turning caffeine into working code at 4 AM while maintaining surprisingly decent documentation
 
 ## 📫 Let's Connect
 

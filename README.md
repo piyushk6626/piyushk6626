@@ -13,9 +13,10 @@
   </a>
   <br />
   <!-- GitHub Contribution Graph -->
-  <a href="https://github.com/piyushk6626">
-    <img src="https://activity-graph.herokuapp.com/graph?username=piyushk6626&theme=react-dark" alt="Piyush's GitHub Activity Graph" />
-  </a>
+<a href="https://github.com/piyushk6626">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushk6626&theme=react-dark" alt="Piyush's GitHub Activity Graph" />
+</a>
+
 </div>
 
 > From research to real-world impact—let's build AI products that matter.

@@ -3,10 +3,11 @@
 <div align="center">
   <h3>My GitHub Contributions</h3>
   <!-- GitHub Contribution Chart (all contributions) -->
-  <a href="https://github.com/piyushk6626">
-    <img src="https://ghchart.rshah.org/piyushk6626" alt="Piyush's GitHub Contribution Chart" />
-  </a>
-  <br />
+ <!-- GitHub Contribution Chart (simulated dark theme) -->
+<a href="https://github.com/piyushk6626">
+  <img src="https://ghchart.rshah.org/ffffff/piyushk6626" alt="Piyush's GitHub Contribution Chart" />
+</a>
+
   <!-- GitHub Streak Card -->
   <a href="https://github.com/piyushk6626">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />

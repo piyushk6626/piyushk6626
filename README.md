@@ -1,5 +1,23 @@
 # 👋 Hello, I'm Piyush Kulkarni
 
+<div align="center">
+  <h3>My GitHub Contributions</h3>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/piyushk6626">
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushk6626&show_icons=true&theme=radical" alt="Piyush's GitHub Stats" />
+  </a>
+  <br />
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/piyushk6626">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />
+  </a>
+  <br />
+  <!-- GitHub Contribution Graph -->
+  <a href="https://github.com/piyushk6626">
+    <img src="https://activity-graph.herokuapp.com/graph?username=piyushk6626&theme=react-dark" alt="Piyush's GitHub Activity Graph" />
+  </a>
+</div>
+
 > From research to real-world impact—let's build AI products that matter.
 
 ## 🧠 About Me
@@ -18,7 +36,6 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 ![LandingPage](homepage.png)
 
 ## 🚀 Projects
-
 
 ### [Athena](https://github.com/piyushk6626/Athena) - Open Source AI Assistant
 **Alexa+ but free and open source**
@@ -145,11 +162,11 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - I name my bugs after Greek gods because they seem immortal
 - My Git commit messages range from "Fixed stuff" to existential poetry
 - I understand regex exactly two times: when I write it and never again
-- I Listen to Marathi Classic Songs Wanna try [Spotify PlayList](https://open.spotify.com/playlist/3BTphLQ7H0FSVmH84fUGo7?si=C7RfBDhsSDmJNwjdkd6q8Q)
-
+- I Listen to Marathi Classic Songs – wanna try [Spotify PlayList](https://open.spotify.com/playlist/3BTphLQ7H0FSVmH84fUGo7?si=C7RfBDhsSDmJNwjdkd6q8Q)
 
 ### 🧙‍♂️ My Coding Superpower
 Turning caffeine into working code at 4 AM while maintaining surprisingly decent documentation
+
 ## 📫 Let's Connect
 
 Interested in building AI together? Reach out:
@@ -161,7 +178,5 @@ Interested in building AI together? Reach out:
 ---
 
 <div align="center">
-
-*"AI products that matter."*
-
+  *"AI products that matter."*
 </div>

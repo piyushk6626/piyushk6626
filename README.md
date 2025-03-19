@@ -29,7 +29,7 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 - Multilingual support
 - **Tech Stack:** OpenAI API, FastAPI, Vector Embedding, Pinecone, Selenium, Flask, Flutter, Dart
 
-### [YC Atlas](https://github.com/piyushk6626/YCAtlas) - YC Startup Discovery
+### [YC Atlas](https://yc-atlas.lovable.app/) - YC Startup Discovery
 **Agentic AI researcher for YC startups**
 - LLM-powered semantic search for context-aware retrieval
 - Autonomously conducts multi-step research

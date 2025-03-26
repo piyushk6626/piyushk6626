@@ -157,7 +157,10 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 
 ### 🧙‍♂️ My Coding Superpower
 Turning caffeine into working code at 4 AM while maintaining surprisingly decent documentation
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=piyushk6626
+    -dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ## 📫 Let's Connect
 
 Interested in building AI together? Reach out:

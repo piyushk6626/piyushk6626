@@ -112,7 +112,7 @@ I'm an AI engineer from Pune, India, studying at IIIT Pune. I specialize in buil
 
 <div align="center">
   <a href="https://github.com/piyushk6626">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=piyushk6626&theme=dark" alt="Piyush's GitHub Streak" />
   </a>
 </div>
 
